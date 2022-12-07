@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: arun sai
+Build-Jdk: 17.0.4
+Implementation-Title: Odin_FS4_Cap_Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Odin_fs4_projects
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Odin_FS4_Cap_P
+ roject/
+Created-By: Maven Integration for Eclipse
+
